@@ -1,0 +1,11 @@
+1-) Algoritmayı neden analiz ederiz? Algoritmaanalizini nasılyaparız? Açıklayınız.
+
+Algoritma analizi, bir algoritmanın zaman ve bellek kullanımı dahil olmak üzere performans özelliklerini ölçmenin ve değerlendirmenin bir yöntemidir. Bir algoritmanın doğru çalıştığı varsayarsak , analiz  bir problemin çözümü için kullanılan algoritmanın ne kadar verimli olduğunu ölçer.
+
+Algoritma analizi ise  algoritmanın ne kadar zamanda çalışacağı ve ne kadar bellek kullanacağı gibi özelliklerini ölçen  modeller kullanılır.Bu modeller, algoritmanın girdi boyutuna göre işlem süresini ve bellek kullanımını hesaplar.
+ Bir algoritmanın performansını ölçmek için şunları kullanırız 
+-Büyük O Notasyonu: Bir algoritmanın işlem süresi veya bellek kullanımı gibi özellikleri için matematiksel bir üst sınır belirler.
+
+-Asimptotik Analiz: Algoritmanın en kötü durum senaryosunda çalışma süresini ölçen bir analiz yöntemidir.
+
+-Karşılaştırmalı Analiz: Bir algoritmanın diğer algoritmalarla karşılaştırılarak performansının ölçülmesi.
